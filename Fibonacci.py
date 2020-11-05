@@ -13,8 +13,8 @@ def IterativeFibonacci(n):
 print(IterativeFibonacci(4))
 nterms = 10
 if nterms <= 0:
-   print("Plese enter a positive integer")
+   print("Please enter a positive integer")
 else:
    print("Fibonacci sequence:")
    for i in range(nterms):
-       print(RecursionFibonacci(i))      
+       print(RecursionFibonacci(i))     
