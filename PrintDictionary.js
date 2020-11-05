@@ -4,12 +4,12 @@ function Dict()
   dict = {
   "Python": "Super fun",
   "C++": "It's ok I guess",
-  "C#: "wHo",
+  "C#: "wHo, no ideao",
   };
-  for(var key in dict) {
+  f
+or(var key in dict) {
   var value = dict[key]
   }
 }
 Dict()
-
 // Comment in Javascript
