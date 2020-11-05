@@ -60,7 +60,7 @@ while True:
 
         elif choice == "6":
         	num1 = float(input("Enter base number: "))
-        	num2 = float(input("Enter power number: "))
+        	num2 = float(input("Enter power... UNLIMITED POWER number: "))
         	print(str(num1) + " power " + str(num2) + " =" + " "+str(num1 ** num2))
         break
     else: 
