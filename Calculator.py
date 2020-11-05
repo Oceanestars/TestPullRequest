@@ -18,6 +18,7 @@ def div(x,y):
 def squareroot(x):
 	return sqrt(x)	
 
+print("I rul the WORLD")
 print("Select operation.")
 print("1. Add")
 print("2. Subtract")
