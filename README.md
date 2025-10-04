@@ -137,7 +137,7 @@ Next steps:
 [Good first issues](https://goodfirstissues.com/ "Good First Issues") <br/>
 [Github Education pack](https://education.github.com/pack "Github Education Pack") <br/>
 [Open Source for beginners](https://github.com/MunGell/awesome-for-beginners "Open Source for beginners") <br/>
-
+[Kunal Kushwaha's Git Tutorial](https://youtu.be/apGV9Kg7ics?si=IzPGn6_5IdJXywjW) <br/>
 Do you have any good resource that could complement this? Do a pull request!
 
 
